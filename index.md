@@ -5,15 +5,13 @@
 ##### testing header 5
 ###### testing header 6
 
-<!DOCTYPE html>
-<html>
-  <head>
-    <h1>My Page</h1>
-  </head>
-  <body>
-    <h1>Hello World</h1>
-  </body>
-</html>
+```java
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, world!");
+    }
+}
+```
 
 ![Image of Outer Space](https://nstxl.org/wp-content/uploads/2023/08/Success-Story-KANAGWA-1.png)
 
