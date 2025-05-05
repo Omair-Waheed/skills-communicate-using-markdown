@@ -13,5 +13,9 @@ public class HelloWorld {
 }
 ```
 
+- [] Create this list
+- [] Complete this list
+- [] Finish skills course
+
 ![Image of Outer Space](https://nstxl.org/wp-content/uploads/2023/08/Success-Story-KANAGWA-1.png)
 
